@@ -1,0 +1,13 @@
+{
+    "admin": {
+        "password": "password123",
+        "chats": {
+            "Chat 1": [
+                {
+                    "role": "user",
+                    "content": "hello"
+                }
+            ]
+        }
+    }
+}
